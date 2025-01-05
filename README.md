@@ -2,8 +2,8 @@
 ## Project Overview
 This project integrates two comprehensive workflows for metagenomic analysis:
 
-Read-Length-Based Metagenomic Analysis
-Assembly-Based Metagenomic Analysis
+- Read-Length-Based Metagenomic Analysis\
+- Assembly-Based Metagenomic Analysis
 
 ## Key Components
 Reference Database Configuration
